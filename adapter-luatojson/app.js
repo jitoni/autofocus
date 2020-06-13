@@ -2,8 +2,8 @@
 const fs = require('fs')
 
 // ==== Main
-var file = 'example.lua'
-var read = fs.readFileSync('example.lua', 'utf-8')
+var file = 'Archrist.lua'
+var read = fs.readFileSync('Archrist.lua', 'utf-8')
 
 read = read
     .replace(/^(.*?)(?<=ArchLootDB\s\=\s)/, '')             //:: Variable declaration sil
