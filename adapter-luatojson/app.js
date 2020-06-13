@@ -3,7 +3,7 @@ const fs = require('fs')
 
 // ==== Main
 //:: Variables
-var readFile = 'example.lua'
+var readFile = 'Archrist.lua'
 var writeFile = 'output.json'
 
 //:: Manipulate readFile
