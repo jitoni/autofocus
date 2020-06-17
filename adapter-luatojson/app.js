@@ -16,12 +16,13 @@ cachedDocs = cachedDocs
     .replace(/(\[(?="))|((?<=\")(\]))/g, '')                                //:: " den once ve sonraki [] karakterlerini sil
     .replace(/\{\{/g, '[[')                                                 //:: change double curlies to square brackets
     .replace(/\}\,\{/g, '],[')                                              //:: replace curly bracket set with square brackets
+    .replace(/,(\}|\])/g, '$1')                                             //:: remove trailing comma
     .replace(/^(.*?)(?<=\},"global"\s:)|^(.*?)(?<=\},\s"global"\s:)/, '')
     .replace(/\}$/, '')                                                     //:: sonraki tek } sil
-    .replace(/,(\}|\])/g, '$1')                                             //:: remove trailing comma
 cachedDocs = cachedDocs
     .replace(/\}\}/g,']]')
     .replace(/\]\]\]\]\,|\]\]\]\]/, ']]}}')
+    .replace(/\{\]\]\}/, '{}}}')
 
 //:: Format the JSON  
 var obj = JSON.parse(cachedDocs)

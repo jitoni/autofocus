@@ -2,216 +2,68 @@
     "Frosthold": {
         "Lilleru": [
             [
-                "|cffa335ee|Hitem:45642:0:0:0:0:0:0:0:80|h[Gauntlets of the Wayward Protector]|h|r",
-                "08-06-20"
-            ],
-            [
-                "45457",
-                "03-06-20"
-            ],
-            [
-                "45319",
-                "03-06-20"
+                "17-06-20",
+                "Collar of the Wyrmhunter",
+                "45150"
             ]
         ],
-        "Badshaman": [
-            [
-                "|cffa335ee|Hitem:45642:0:0:0:0:0:0:0:80|h[Gauntlets of the Wayward Protector]|h|r",
-                "08-06-20"
-            ],
-            [
-                "45319",
-                "03-06-20"
-            ],
-            [
-                "45506",
-                "02-06-20"
-            ]
-        ],
-        "Bombfactory": {},
-        "Saturate": {},
-        "Kai": {},
-        "Heloise": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ]
-        ],
-        "Shahor": {},
-        "Vanka": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ],
-            [
-                "45319",
-                "03-06-20"
-            ],
-            [
-                "45506",
-                "02-06-20"
-            ]
-        ],
-        "Zivotinka": {},
-        "Iusii": [
-            [
-                "45226",
-                "08-06-20"
-            ],
-            [
-                "45226",
-                "08-06-20"
-            ]
-        ],
-        "Arkzar": {},
-        "Spoox": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ]
-        ],
-        "Fruits": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ]
-        ],
-        "Uwot": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ]
-        ],
-        "Meow": [
-            [
-                "45226",
-                "08-06-20"
-            ],
-            [
-                "45457",
-                "03-06-20"
-            ]
-        ],
-        "Tangz": {},
         "Yugeki": [
             [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ],
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ],
-            [
-                "45244",
-                "01-06-20"
+                "17-06-20",
+                "Golden Saronite Dragon",
+                "45132"
             ]
         ],
-        "Smoobeams": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ]
-        ],
+        "Smoobeams": {},
         "Calpol": [
             [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
+                "18-06-20",
+                "Northern Barrier",
+                "45450"
             ],
             [
-                "45319",
-                "03-06-20"
+                "18-06-20",
+                "Necklace of Unerring Mettle",
+                "45262"
             ]
         ],
-        "Puks": [
+        "Saturate": {},
+        "Valanya": {},
+        "Ladoria": {},
+        "Shahor": {},
+        "Pinkextacy": [
             [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ]
-        ],
-        "Valanya": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
+                "17-06-20",
+                "Grips of Chaos",
+                "45549"
             ],
             [
-                "45709",
-                "10-06-20",
-                "Nimble Climber's Belt"
+                "17-06-20",
+                "Living Flame",
+                "45148"
             ]
         ],
-        "Izy": [
+        "Rocknload": [
             [
-                "45457",
-                "03-06-20"
-            ],
-            [
-                "45319",
-                "03-06-20"
+                "17-06-20",
+                "Saronite Mesh Legguards",
+                "45143"
             ]
         ],
-        "Ryukhal": [
+        "Screamingowl": [
             [
-                "45457",
-                "03-06-20"
-            ]
-        ],
-        "Traix": [
-            [
-                "45632",
-                "10-06-20",
-                "Breastplate of the Wayward Conqueror"
-            ]
-        ],
-        "Orthrin": {},
-        "Blazingblood": [
-            [
-                "|cffa335ee|Hitem:45642:0:0:0:0:0:0:0:80|h[Gauntlets of the Wayward Protector]|h|r",
-                "08-06-20"
-            ],
-            [
-                "45457",
-                "03-06-20"
-            ],
-            [
-                "45319",
-                "03-06-20"
+                "17-06-20",
+                "Shoulderpads of the Monolith",
+                "45265"
             ]
         ],
         "Therealcruel": [
             [
-                "45226",
-                "08-06-20"
-            ],
-            [
-                "45226",
-                "08-06-20"
+                "17-06-20",
+                "Grasps of Reason",
+                "45446"
             ]
         ],
-        "Btxbarbie": [
-            [
-                "45457",
-                "03-06-20"
-            ],
-            [
-                "45319",
-                "03-06-20"
-            ],
-            [
-                "45319",
-                "03-06-20"
-            ]
-        ]
+        "Btxbarbie": {}
     }
 }
