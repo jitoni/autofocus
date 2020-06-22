@@ -2,9 +2,48 @@
     "Frosthold": {
         "Lilleru": [
             [
+                "22-06-20",
+                "Legplates of the Wayward Vanquisher",
+                "45655"
+            ],
+            [
                 "17-06-20",
                 "Collar of the Wyrmhunter",
                 "45150"
+            ]
+        ],
+        "Arkzar": [
+            [
+                "22-06-20",
+                "Helm of the Faceless",
+                "45502"
+            ],
+            [
+                "22-06-20",
+                "Insurmountable Fervor",
+                "45193"
+            ]
+        ],
+        "Saturate": [
+            [
+                "22-06-20",
+                "Ring of the Vacant Eye",
+                "45515"
+            ]
+        ],
+        "Ladoria": {},
+        "Fruits": [
+            [
+                "22-06-20",
+                "The General's Heart",
+                "45507"
+            ]
+        ],
+        "Badshaman": [
+            [
+                "22-06-20",
+                "Belt of the Betrayed",
+                "45467"
             ]
         ],
         "Yugeki": [
@@ -14,8 +53,24 @@
                 "45132"
             ]
         ],
-        "Smoobeams": {},
+        "Rocknload": [
+            [
+                "17-06-20",
+                "Saronite Mesh Legguards",
+                "45143"
+            ]
+        ],
         "Calpol": [
+            [
+                "22-06-20",
+                "Legplates of the Wayward Conqueror",
+                "45653"
+            ],
+            [
+                "22-06-20",
+                "Platinum Band of the Aesir",
+                "45326"
+            ],
             [
                 "18-06-20",
                 "Northern Barrier",
@@ -27,9 +82,31 @@
                 "45262"
             ]
         ],
-        "Saturate": {},
-        "Valanya": {},
-        "Ladoria": {},
+        "Screamingowl": [
+            [
+                "17-06-20",
+                "Shoulderpads of the Monolith",
+                "45265"
+            ]
+        ],
+        "Smoobeams": {},
+        "Valanya": [
+            [
+                "22-06-20",
+                "Titanstone Pendant",
+                "45538"
+            ],
+            [
+                "22-06-20",
+                "Shroud of Alteration",
+                "45541"
+            ],
+            [
+                "22-06-20",
+                "Ring of the Faithful Servant",
+                "45438"
+            ]
+        ],
         "Shahor": {},
         "Pinkextacy": [
             [
@@ -43,27 +120,42 @@
                 "45148"
             ]
         ],
-        "Rocknload": [
+        "Realest": {},
+        "Frostie": [
             [
-                "17-06-20",
-                "Saronite Mesh Legguards",
-                "45143"
-            ]
-        ],
-        "Screamingowl": [
+                "22-06-20",
+                "Crown of the Wayward Vanquisher",
+                "45640"
+            ],
             [
-                "17-06-20",
-                "Shoulderpads of the Monolith",
-                "45265"
+                "22-06-20",
+                "Pendant of Focused Energies",
+                "45539"
             ]
         ],
         "Therealcruel": [
+            [
+                "22-06-20",
+                "Asimov's Drape",
+                "45493"
+            ],
             [
                 "17-06-20",
                 "Grasps of Reason",
                 "45446"
             ]
         ],
-        "Btxbarbie": {}
+        "Btxbarbie": [
+            [
+                "22-06-20",
+                "Unblinking Eye",
+                "45236"
+            ],
+            [
+                "22-06-20",
+                "Gauntlets of the Wayward Conqueror",
+                "45641"
+            ]
+        ]
     }
 }
