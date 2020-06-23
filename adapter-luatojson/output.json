@@ -32,13 +32,6 @@
             ]
         ],
         "Ladoria": {},
-        "Fruits": [
-            [
-                "22-06-20",
-                "The General's Heart",
-                "45507"
-            ]
-        ],
         "Badshaman": [
             [
                 "22-06-20",
@@ -58,6 +51,13 @@
                 "17-06-20",
                 "Saronite Mesh Legguards",
                 "45143"
+            ]
+        ],
+        "Screamingowl": [
+            [
+                "17-06-20",
+                "Shoulderpads of the Monolith",
+                "45265"
             ]
         ],
         "Calpol": [
@@ -82,11 +82,11 @@
                 "45262"
             ]
         ],
-        "Screamingowl": [
+        "Fruits": [
             [
-                "17-06-20",
-                "Shoulderpads of the Monolith",
-                "45265"
+                "22-06-20",
+                "The General's Heart",
+                "45507"
             ]
         ],
         "Smoobeams": {},
