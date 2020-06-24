@@ -3,7 +3,7 @@ const fs = require('fs')
 
 // ==== Main
 //:: Variables
-var readFile = 'Archrist.lua'
+var readFile = '../../Archrist.lua'
 var writeFile = 'output.json'
 var writeFile2 = 'lastRaid.json'
 
@@ -49,8 +49,8 @@ fs.writeFile(writeFile, cachedDocs, function(err) {
     }
 })
 
-// temp = JSON.parse(cachedDocs2)
-// cachedDocs2 = JSON.stringify(temp, null, 4)
+temp = JSON.parse(cachedDocs2)
+cachedDocs2 = JSON.stringify(temp, null, 4)
 fs.writeFile(writeFile2, cachedDocs2, function(err) {
   if(err) {
     console.log(err);
