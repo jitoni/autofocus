@@ -36,13 +36,19 @@
                 "47242"
             ]
         ],
-        "Zivotinka": {},
-        "Spoox": {},
-        "Ladoria": [
+        "Zivotinka": [
             [
                 "24-06-20",
-                "Trophy of the Crusade",
-                "47242"
+                "Boots of the Unrelenting Storm",
+                "46988"
+            ]
+        ],
+        "Spoox": {},
+        "Bombfactory": [
+            [
+                "24-06-20",
+                "Shawl of the Refreshing Winds",
+                "46976"
             ]
         ],
         "Yugeki": [
@@ -81,8 +87,14 @@
                 "47080"
             ]
         ],
+        "Arkzar": [
+            [
+                "24-06-20",
+                "Band of the Violent Temperment",
+                "46959"
+            ]
+        ],
         "Valanya": {},
-        "Smoobeams": {},
         "Izy": [
             [
                 "24-06-20",
@@ -90,8 +102,6 @@
                 "46994"
             ]
         ],
-        "Lilleru": {},
-        "Ozzbrain": {},
         "Heloise": [
             [
                 "24-06-20",
@@ -104,19 +114,15 @@
                 "47195"
             ]
         ],
-        "Arkzar": [
-            [
-                "24-06-20",
-                "Band of the Violent Temperment",
-                "46959"
-            ]
-        ],
+        "Ozzbrain": {},
+        "Lilleru": {},
+        "Smoobeams": {},
         "Therealcruel": {},
-        "Bombfactory": [
+        "Ladoria": [
             [
                 "24-06-20",
-                "Shawl of the Refreshing Winds",
-                "46976"
+                "Trophy of the Crusade",
+                "47242"
             ]
         ]
     }
