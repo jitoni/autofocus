@@ -1,24 +1,168 @@
 {
     "Frosthold": {
-        "Traix": {},
-        "Meow": [
+        "Badshaman": [
+            [
+                "08-07-20",
+                "Chestguard of Flowing Elements",
+                "47204"
+            ],
             [
                 "01-07-20",
-                "Lupine Longstaff",
-                "47114"
+                "Legguards of Concealed Hatred",
+                "47083"
+            ],
+            [
+                "01-07-20",
+                "Belt of the Ice Burrower",
+                "46990"
+            ],
+            [
+                "01-07-20",
+                "Bracers of Cloudy Omen",
+                "47056"
             ],
             [
                 "24-06-20",
-                "Planestalker Signet",
-                "47703"
+                "Trophy of the Crusade",
+                "47242"
             ],
             [
                 "24-06-20",
-                "Treads of the Icewalker",
-                "47071"
+                "Maiden's Favor",
+                "47225"
+            ]
+        ],
+        "Bombfactory": [
+            [
+                "24-06-20",
+                "Shawl of the Refreshing Winds",
+                "46976"
+            ]
+        ],
+        "Heloise": [
+            [
+                "24-06-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
+            [
+                "24-06-20",
+                "Belt of the Forgotten Martyr",
+                "47195"
+            ]
+        ],
+        "Ladoria": [
+            [
+                "01-07-20",
+                "Shawl of the Refreshing Winds",
+                "46976"
+            ],
+            [
+                "24-06-20",
+                "Trophy of the Crusade",
+                "47242"
+            ]
+        ],
+        "Vanka": [
+            [
+                "06-07-20",
+                "Baelgun's Heavy Crossbow",
+                "47975"
+            ],
+            [
+                "01-07-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
+            [
+                "01-07-20",
+                "Bloodbath Belt",
+                "46999"
+            ]
+        ],
+        "Zivotinka": [
+            [
+                "24-06-20",
+                "Boots of the Unrelenting Storm",
+                "46988"
+            ]
+        ],
+        "Calpol": [
+            [
+                "08-07-20",
+                "Legguards of Feverish Dedication",
+                "47052"
+            ],
+            [
+                "01-07-20",
+                "Maiden's Favor",
+                "47225"
+            ],
+            [
+                "01-07-20",
+                "Vambraces of the Broken Bond",
+                "47093"
+            ],
+            [
+                "01-07-20",
+                "Dawnbreaker Greaves",
+                "46997"
+            ],
+            [
+                "24-06-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
+            [
+                "24-06-20",
+                "Satrina's Impeding Scarab",
+                "47080"
+            ]
+        ],
+        "Ozzbrain": [
+            [
+                "08-07-20",
+                "Leggings of the Deepening Void",
+                "47187"
+            ],
+            [
+                "08-07-20",
+                "Cord of the Tenebrous Mist",
+                "46972"
+            ]
+        ],
+        "Namisan": [
+            [
+                "08-07-20",
+                "Gloves of Bitter Reprisal",
+                "47234"
+            ]
+        ],
+        "Lilleru": [
+            [
+                "08-07-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
+            [
+                "02-07-20",
+                "Armbands of the Ashen Saint",
+                "47203"
+            ]
+        ],
+        "Arkzar": [
+            [
+                "24-06-20",
+                "Band of the Violent Temperment",
+                "46959"
             ]
         ],
         "Toni": [
+            [
+                "02-07-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
             [
                 "01-07-20",
                 "Lionhead Slasher",
@@ -49,6 +193,21 @@
         ],
         "Ryukhal": [
             [
+                "08-07-20",
+                "Pride of the Eredar",
+                "47042"
+            ],
+            [
+                "08-07-20",
+                "Justicebringer",
+                "47069"
+            ],
+            [
+                "08-07-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
+            [
                 "01-07-20",
                 "Trophy of the Crusade",
                 "47242"
@@ -71,22 +230,19 @@
                 "47106"
             ]
         ],
-        "Shahor": [
+        "Screamingowl": [
             [
-                "01-07-20",
+                "08-07-20",
                 "Chalice of Searing Light",
                 "47138"
-            ]
-        ],
-        "Uwot": {},
-        "Zivotinka": [
+            ],
             [
-                "24-06-20",
+                "08-07-20",
                 "Boots of the Unrelenting Storm",
                 "46988"
             ]
         ],
-        "Lilleru": {},
+        "Uwot": {},
         "Stealthyboi": [
             [
                 "01-07-20",
@@ -96,47 +252,22 @@
         ],
         "Spoox": [
             [
+                "08-07-20",
+                "Band of the Violent Temperment",
+                "46959"
+            ],
+            [
                 "01-07-20",
                 "Boneshatter Armplates",
                 "46961"
             ]
         ],
-        "Vanka": [
+        "Valanya": {},
+        "Marlu": [
             [
-                "01-07-20",
-                "Trophy of the Crusade",
-                "47242"
-            ],
-            [
-                "01-07-20",
-                "Bloodbath Belt",
-                "46999"
-            ]
-        ],
-        "Veloci": [
-            [
-                "01-07-20",
-                "Trophy of the Crusade",
-                "47242"
-            ]
-        ],
-        "Pinkextacy": [
-            [
-                "01-07-20",
-                "Trophy of the Crusade",
-                "47242"
-            ],
-            [
-                "01-07-20",
-                "Armbands of the Ashen Saint",
-                "47203"
-            ]
-        ],
-        "Bombfactory": [
-            [
-                "24-06-20",
-                "Shawl of the Refreshing Winds",
-                "46976"
+                "08-07-20",
+                "Bracers of the Autumn Willow",
+                "47055"
             ]
         ],
         "Yugeki": [
@@ -151,65 +282,30 @@
                 "47070"
             ]
         ],
-        "Badshaman": [
+        "Shahor": [
             [
                 "01-07-20",
-                "Legguards of Concealed Hatred",
-                "47083"
-            ],
-            [
-                "01-07-20",
-                "Belt of the Ice Burrower",
-                "46990"
-            ],
-            [
-                "01-07-20",
-                "Bracers of Cloudy Omen",
-                "47056"
-            ],
-            [
-                "24-06-20",
-                "Trophy of the Crusade",
-                "47242"
-            ],
-            [
-                "24-06-20",
-                "Maiden's Favor",
-                "47225"
+                "Chalice of Searing Light",
+                "47138"
             ]
         ],
-        "Calpol": [
+        "Veloci": [
             [
-                "01-07-20",
-                "Maiden's Favor",
-                "47225"
+                "08-07-20",
+                "Twin Spike",
+                "47104"
             ],
             [
-                "01-07-20",
-                "Vambraces of the Broken Bond",
-                "47093"
-            ],
-            [
-                "01-07-20",
-                "Dawnbreaker Greaves",
-                "46997"
-            ],
-            [
-                "24-06-20",
+                "08-07-20",
                 "Trophy of the Crusade",
                 "47242"
-            ],
-            [
-                "24-06-20",
-                "Satrina's Impeding Scarab",
-                "47080"
             ]
         ],
-        "Arkzar": [
+        "Pinkextacy": [
             [
-                "24-06-20",
-                "Band of the Violent Temperment",
-                "46959"
+                "01-07-20",
+                "Trophy of the Crusade",
+                "47242"
             ]
         ],
         "Smoobeams": [
@@ -221,43 +317,64 @@
         ],
         "Izy": [
             [
+                "08-07-20",
+                "Bracers of the Untold Massacre",
+                "47073"
+            ],
+            [
+                "08-07-20",
+                "Vambraces of the Broken Bond",
+                "47093"
+            ],
+            [
                 "24-06-20",
                 "Talonstrike",
                 "46994"
             ]
         ],
-        "Heloise": [
+        "Meow": [
             [
-                "24-06-20",
-                "Trophy of the Crusade",
-                "47242"
+                "01-07-20",
+                "Lupine Longstaff",
+                "47114"
             ],
             [
                 "24-06-20",
-                "Belt of the Forgotten Martyr",
-                "47195"
+                "Planestalker Signet",
+                "47703"
+            ],
+            [
+                "24-06-20",
+                "Treads of the Icewalker",
+                "47071"
             ]
         ],
-        "Ozzbrain": {},
+        "Chastity": [
+            [
+                "08-07-20",
+                "Trophy of the Crusade",
+                "47242"
+            ]
+        ],
         "Fruits": [
             [
+                "08-07-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
+            [
                 "01-07-20",
                 "Trophy of the Crusade",
                 "47242"
             ]
         ],
-        "Valanya": {},
+        "Traix": {},
         "Therealcruel": {},
-        "Ladoria": [
+        "Tangz": [
             [
-                "01-07-20",
-                "Shawl of the Refreshing Winds",
-                "46976"
-            ],
-            [
-                "24-06-20",
-                "Trophy of the Crusade",
-                "47242"
+                "08-07-20",
+                "The Executioner's Malice",
+                "47105"
             ]
         ]
     }
