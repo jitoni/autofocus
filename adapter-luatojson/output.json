@@ -242,6 +242,13 @@
                 "47080"
             ]
         ],
+        "Moha": [
+            [
+                "13-08-20",
+                "Trophy of the Crusade",
+                "47242"
+            ]
+        ],
         "Tangz": [
             [
                 "08-07-20",
@@ -313,14 +320,14 @@
             ]
         ],
         "Khalisi": {},
-        "Xsz": {},
-        "Matsuri": [
+        "Pinkextacy": [
             [
-                "15-07-20",
+                "01-07-20",
                 "Trophy of the Crusade",
                 "47242"
             ]
         ],
+        "Xsz": {},
         "Littlesister": {},
         "Lilleru": [
             [
@@ -339,26 +346,11 @@
                 "47203"
             ]
         ],
-        "Arkzar": [
-            [
-                "22-07-20",
-                "Strength of the Nerub",
-                "47183"
-            ],
+        "Valanya": [
             [
                 "15-07-20",
-                "Bloodbath Belt",
-                "46999"
-            ],
-            [
-                "15-07-20",
-                "Trophy of the Crusade",
-                "47242"
-            ],
-            [
-                "24-06-20",
-                "Band of the Violent Temperment",
-                "46959"
+                "Cord of the Tenebrous Mist",
+                "46972"
             ]
         ],
         "Meow": [
@@ -530,16 +522,26 @@
             ]
         ],
         "Uwot": {},
-        "Smoobeams": [
+        "Arkzar": [
             [
-                "15-07-20",
-                "Bracers of the Autumn Willow",
-                "47055"
+                "22-07-20",
+                "Strength of the Nerub",
+                "47183"
             ],
             [
-                "01-07-20",
-                "Legwraps of the Awakening",
-                "47186"
+                "15-07-20",
+                "Bloodbath Belt",
+                "46999"
+            ],
+            [
+                "15-07-20",
+                "Trophy of the Crusade",
+                "47242"
+            ],
+            [
+                "24-06-20",
+                "Band of the Violent Temperment",
+                "46959"
             ]
         ],
         "Ixxl": {},
@@ -591,21 +593,46 @@
                 "47242"
             ]
         ],
-        "Chastity": [
+        "Shahor": [
             [
-                "08-07-20",
+                "29-07-20",
                 "Trophy of the Crusade",
                 "47242"
-            ]
-        ],
-        "Veloci": [
-            [
-                "08-07-20",
-                "Twin Spike",
-                "47104"
             ],
             [
-                "08-07-20",
+                "29-07-20",
+                "Armbands of the Ashen Saint",
+                "47203"
+            ],
+            [
+                "29-07-20",
+                "Cord of Biting Cold",
+                "47081"
+            ],
+            [
+                "15-07-20",
+                "Reign of the Unliving",
+                "47182"
+            ],
+            [
+                "01-07-20",
+                "Chalice of Searing Light",
+                "47138"
+            ]
+        ],
+        "Traix": [
+            [
+                "29-07-20",
+                "Bastion of Purity",
+                "47079"
+            ],
+            [
+                "15-07-20",
+                "Gloves of the Lifeless Touch",
+                "47235"
+            ],
+            [
+                "15-07-20",
                 "Trophy of the Crusade",
                 "47242"
             ]
@@ -637,48 +664,23 @@
                 "47070"
             ]
         ],
-        "Traix": [
+        "Veloci": [
             [
-                "29-07-20",
-                "Bastion of Purity",
-                "47079"
+                "08-07-20",
+                "Twin Spike",
+                "47104"
             ],
             [
-                "15-07-20",
-                "Gloves of the Lifeless Touch",
-                "47235"
-            ],
-            [
-                "15-07-20",
+                "08-07-20",
                 "Trophy of the Crusade",
                 "47242"
             ]
         ],
-        "Shahor": [
+        "Chastity": [
             [
-                "29-07-20",
+                "08-07-20",
                 "Trophy of the Crusade",
                 "47242"
-            ],
-            [
-                "29-07-20",
-                "Armbands of the Ashen Saint",
-                "47203"
-            ],
-            [
-                "29-07-20",
-                "Cord of Biting Cold",
-                "47081"
-            ],
-            [
-                "15-07-20",
-                "Reign of the Unliving",
-                "47182"
-            ],
-            [
-                "01-07-20",
-                "Chalice of Searing Light",
-                "47138"
             ]
         ],
         "Milwa": [
@@ -693,11 +695,16 @@
                 "47106"
             ]
         ],
-        "Valanya": [
+        "Smoobeams": [
             [
                 "15-07-20",
-                "Cord of the Tenebrous Mist",
-                "46972"
+                "Bracers of the Autumn Willow",
+                "47055"
+            ],
+            [
+                "01-07-20",
+                "Legwraps of the Awakening",
+                "47186"
             ]
         ],
         "Izy": [
@@ -724,9 +731,9 @@
                 "47051"
             ]
         ],
-        "Pinkextacy": [
+        "Matsuri": [
             [
-                "01-07-20",
+                "15-07-20",
                 "Trophy of the Crusade",
                 "47242"
             ]
